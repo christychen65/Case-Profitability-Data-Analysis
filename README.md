@@ -1,5 +1,6 @@
 # Case-Profitability-Data-Analysis
-
+The data, content, and final delivery I shared on GitHub utilize mock-up data due to confidentiality. This work sample aims to demonstrate my analytical skills, problem-solving approach, and the lessons I learned from the case. 
+<br />
 ### 1. Introduction
 The goal of this case analysis is to simulate working as the leadership team of a marketplace company, specifically focusing on Uber. 
 <br />
